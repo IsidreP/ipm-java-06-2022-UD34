@@ -1,0 +1,49 @@
+#container {
+  background-color: aquamarine;
+  width: 500px;
+  height: 500px;
+}
+
+#border {
+  border: 5px solid black;
+  width: 350px;
+  height: 341px;
+  margin-left: 65px;
+}
+
+#calc {
+  border: 5px solid red;
+  background-color: white;
+  width: 341px;
+  height: 75px;
+  margin-top: -1px;
+  text-align: end;
+  font-size: xx-large;
+}
+
+#botones {
+  border: 5px solid blue;
+  background-color: gray;
+  width: 341px;
+  height: 258px;
+}
+
+#C {
+  border: 2px solid black;
+  width: 320px;
+  height: 30px;
+  background-color: #ccc;
+  text-align: center;
+  margin: 9px;
+}
+
+.bot {
+  display: block;
+  float: left;
+  margin: 7px;
+  border: 2px solid black;
+  width: 50px;
+  height: 30px;
+  background-color: #ccc;
+  text-align: center;
+}
